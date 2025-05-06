@@ -1,0 +1,172 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\UserDataValidator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	UDV
+Working dir:	C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.022.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\alain\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\Tailscale IPN;C:\ProgramData\chocolatey\bin;C:\msedgedriver;C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\alain\AppData\Local\Programs\Python\Python312;C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\GitHub CLI\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\alain\.cargo\bin;C:\Users\alain\scoop\shims;C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\alain\AppData\Local\Programs\Python\Python311\;C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Users\alain\AppData\Roaming\npm;C:\Users\alain\AppData\Local\Programs\Ollama;C:\Users\alain\.deno\bin;C:\Users\alain\.bun\bin;C:\Program Files (x86)\Java\jre1.8.0_431\bin
+JRE paths:	;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\alain\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\Tailscale IPN;C:\ProgramData\chocolatey\bin;C:\msedgedriver;C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\alain\AppData\Local\Programs\Python\Python312;C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\GitHub CLI\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\alain\.cargo\bin;C:\Users\alain\scoop\shims;C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\alain\AppData\Local\Programs\Python\Python311\;C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Users\alain\AppData\Roaming\npm;C:\Users\alain\AppData\Local\Programs\Ollama;C:\Users\alain\.deno\bin;C:\Users\alain\.bun\bin;C:\Program Files (x86)\Java\jre1.8.0_431\bin
+Check launcher:	C:\Program Files\Microsoft MPI\Bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Tailscale IPN\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\msedgedriver\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Tailscale\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\CMake\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.cargo\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\scoop\shims\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Nmap\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Ollama\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.deno\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.bun\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_431\bin\javaw.exe (OK)
+Version string: 1.008.000_431 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_431
+Version string: 1.008.000_431 / 32-Bit (Ignore)
+Ignore:		1.008.000_431
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (Ignore)
+Ignore:		1.019.000_001
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000
+Runtime used:	1.023.000 (64-bit)
+Main class:	view.gui.JFrameMain
+Add classpath:	lib\JavaApplicationEjemploJAR.jar
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\UserDataValidator.exe;lib\JavaApplicationEjemploJAR.jar;lib\AbsoluteLayout.jar" view.gui.JFrameMain
+Args length:	156/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\UserDataValidator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	UDV
+Working dir:	C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.022.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\alain\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\Tailscale IPN;C:\ProgramData\chocolatey\bin;C:\msedgedriver;C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\alain\AppData\Local\Programs\Python\Python312;C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\GitHub CLI\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\alain\.cargo\bin;C:\Users\alain\scoop\shims;C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\alain\AppData\Local\Programs\Python\Python311\;C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Users\alain\AppData\Roaming\npm;C:\Users\alain\AppData\Local\Programs\Ollama;C:\Users\alain\.deno\bin;C:\Users\alain\.bun\bin;C:\Program Files (x86)\Java\jre1.8.0_431\bin
+JRE paths:	;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\alain\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\Tailscale IPN;C:\ProgramData\chocolatey\bin;C:\msedgedriver;C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\alain\AppData\Local\Programs\Python\Python312;C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\GitHub CLI\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\alain\.cargo\bin;C:\Users\alain\scoop\shims;C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\alain\AppData\Local\Programs\Python\Python311\;C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Nmap;C:\Users\alain\AppData\Roaming\npm;C:\Users\alain\AppData\Local\Programs\Ollama;C:\Users\alain\.deno\bin;C:\Users\alain\.bun\bin;C:\Program Files (x86)\Java\jre1.8.0_431\bin
+Check launcher:	C:\Program Files\Microsoft MPI\Bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Tailscale IPN\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\msedgedriver\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Tailscale\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\CMake\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.cargo\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\scoop\shims\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Nmap\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\AppData\Local\Programs\Ollama\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.deno\bin\javaw.exe (not found)
+Check launcher:	C:\Users\alain\.bun\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_431\bin\javaw.exe (OK)
+Version string: 1.008.000_431 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_431
+Version string: 1.008.000_431 / 32-Bit (Ignore)
+Ignore:		1.008.000_431
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (Ignore)
+Ignore:		1.019.000_001
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000
+Runtime used:	1.023.000 (64-bit)
+Main class:	view.gui.JFrameMain
+Add classpath:	lib\JavaApplicationEjemploJAR.jar
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\alain\Desktop\M3UF2PracticaAL2\dist\UserDataValidator.exe;lib\JavaApplicationEjemploJAR.jar;lib\AbsoluteLayout.jar" view.gui.JFrameMain
+Args length:	156/32768 chars
+Exit code:	0
