@@ -56,5 +56,5 @@ Este repositorio incluirá ejercicios de diversos módulos, tales como:
 
 ¡Hola! Soy Alain, un estudiante entusiasta del Grado Superior en Desarrollo de Aplicaciones Web. Me apasiona la tecnología y el desarrollo de software, y Java es una de las herramientas clave en mi aprendizaje.
 
-* **GitHub:** [@TuUsuarioGitHub](https://github.com/ElCorchetes)
-* **LinkedIn:** [Tu Perfil de LinkedIn (Opcional)](https://www.linkedin.com/in/tu-perfil/](https://es.linkedin.com/in/alain-lozano-garcia-moreno-473a50294)
+* **GitHub:** [@ElCorchetes](https://github.com/ElCorchetes)
+* **LinkedIn:** [Tu Perfil de LinkedIn (Opcional)](https://www.linkedin.com/in/tu-perfil/](https://es.linkedin.com/in/alain-lozano-garcia-moreno-473a50294 )
