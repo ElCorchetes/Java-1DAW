@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FormSwing-Exceptions/dist/lib/JavaApplicationEjemploJAR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FormSwing-Exceptions/dist/lib/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

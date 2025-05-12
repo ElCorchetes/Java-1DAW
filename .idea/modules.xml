@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FormSwing-Exceptions/FormSwing-Exceptions.iml" filepath="$PROJECT_DIR$/FormSwing-Exceptions/FormSwing-Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestionDeFicheros_AL/GestionDeFicheros_AL.iml" filepath="$PROJECT_DIR$/GestionDeFicheros_AL/GestionDeFicheros_AL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-1DAW.iml" filepath="$PROJECT_DIR$/.idea/Java-1DAW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplicationUF6_JDBC_01/JavaApplicationUF6_JDBC_01.iml" filepath="$PROJECT_DIR$/JavaApplicationUF6_JDBC_01/JavaApplicationUF6_JDBC_01.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaApplicationEjemploJAR">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FormSwing-Exceptions/JavaApplicationEjemploJAR.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

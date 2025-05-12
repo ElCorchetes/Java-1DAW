@@ -59,27 +59,49 @@ public class ProductoDAOImpl implements ProductoDAO {
     }
 
     public void update(Producto producto) {
-
+        Connection conn = null;
+        try {
+            registerDriver();
+            conn = DriverManager.getConnection(DB_URL, DB_USR, DB_PWD);
+            String sql = "UPDATE producto SET nombre = ?, precio = ? WHERE id = ?";
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setString(1, producto.getNombre());
+                ps.setDouble(2, producto.getPrecio());
+                ps.setInt(3, producto.getId());
+                int filas = ps.executeUpdate();
+                if (filas == 0) {
+                    System.err.println("Aviso: no se actualizó ningún registro para id=" + producto.getId());
+                }
+            }
+        } catch (SQLException ex) {
+            throw new RuntimeException("Error actualizando producto con id=" + producto.getId(), ex);
+        } finally {
+            if (conn != null) {
+                try { conn.close(); }
+                catch (SQLException ex) { ex.printStackTrace(); }
+            }
+        }
     }
 
     public void delete(Producto producto) {
         Connection conn = null;
         try {
             registerDriver();
-            // abrir la conexión
             conn = DriverManager.getConnection(DB_URL, DB_USR, DB_PWD);
-            Statement stmt = conn.createStatement();
-            // enviar el comando insert
-            stmt.executeUpdate("DELETE FROM producto WHERE id = ?");
+            String sql = "DELETE FROM producto WHERE id = ?";
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setInt(1, producto.getId());
+                int filas = ps.executeUpdate();
+                if (filas == 0) {
+                    System.err.println("Aviso: no se borró ningún registro para id=" + producto.getId());
+                }
+            }
         } catch (SQLException ex) {
-            throw new RuntimeException(ex);
+            throw new RuntimeException("Error borrando producto con id=" + producto.getId(), ex);
         } finally {
             if (conn != null) {
-                try {
-                    conn.close();
-                } catch (SQLException ex) {
-                    ex.printStackTrace();
-                }
+                try { conn.close(); }
+                catch (SQLException ex) { ex.printStackTrace(); }
             }
         }
     }
