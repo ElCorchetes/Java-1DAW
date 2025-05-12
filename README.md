@@ -27,7 +27,7 @@ Principalmente, los ejercicios están desarrollados con:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/ElCorchetes/Java-1DAW](https://github.com/ElCorchetes/Java-1DAW)
+    git clone https://github.com/ElCorchetes/Java-1DAW
     ```
 2.  **Navegar a la carpeta del proyecto:**
     ```bash
@@ -54,8 +54,7 @@ Este repositorio incluirá ejercicios de diversos módulos, tales como:
 
 ## 🙋‍♂️ Sobre Mí
 
-¡Hola! Soy [Tu Nombre], un estudiante entusiasta del Grado Superior en Desarrollo de Aplicaciones Web. Me apasiona la tecnología y el desarrollo de software, y Java es una de las herramientas clave en mi aprendizaje.
+¡Hola! Soy Alain, un estudiante entusiasta del Grado Superior en Desarrollo de Aplicaciones Web. Me apasiona la tecnología y el desarrollo de software, y Java es una de las herramientas clave en mi aprendizaje.
 
-* **GitHub:** [@TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
-* **LinkedIn:** [Tu Perfil de LinkedIn (Opcional)](https://www.linkedin.com/in/tu-perfil/)
-* **(Opcional) Portfolio/Web Personal:** [Tu
+* **GitHub:** [@ElCorchetes](https://github.com/ElCorchetes)
+* **LinkedIn:** [Alain Lozano Garcia-Moreno](https://www.linkedin.com/in/tu-perfil/](https://es.linkedin.com/in/alain-lozano-garcia-moreno-473a50294 )
